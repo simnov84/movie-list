@@ -5,9 +5,33 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(243, 203, 210);
+  font-family:cursive;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+p{
+  color: blue;
+  text-align:center;
+}
+h1{
+  color: rgb(235, 31, 31);
+}
+h3{
+  color: darkgreen;
+}
+span{
+  color:darkmagenta;
+  font-size: 80px;
+  margin-top: 0;
+  font-weight: bolder;
+  font-family:cursive;
+}
+div{
+  padding-top: 30px;
+  
 }
